@@ -1,5 +1,5 @@
 MenuData = {}
-TriggerEvent("menuapi:getData",function(call)
+TriggerEvent("redemrp_menu_base:getData",function(call)
     MenuData = call
 end)
 
